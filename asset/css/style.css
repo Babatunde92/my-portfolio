@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Query Settings Here */
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+ }
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {  
+
+}
+
+
+    /* primary color code */
+    /* light blue: #00BCD5 */
+    /* pink: #ff4181 */
+    /* light green: #73d077 */
+
+.primary-color{
+    color: lightseagreen;
+}
+.primary-bg{
+    background:lightseagreen;
+}
+.white-bg{
+    background-color: whitesmoke;
+}
+.nav-icon{
+    border: ;
+    font-size: 13px;
+    padding-top: 3px;
+}
+.nav-li-text li{
+    border: 1px ;
+    font-size: 13px;
+    margin-left: 8px;
+}
+
+
